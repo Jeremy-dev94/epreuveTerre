@@ -11,6 +11,6 @@ function isPrime(nbr) {
             
     return ;
     console.log("Non, " + nbr + " n'est pas un nombre premier " + isPrime(nbr));
-} ;
+};
 
     
